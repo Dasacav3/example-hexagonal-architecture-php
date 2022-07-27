@@ -1,1 +1,1 @@
-# example-hexagonal-architecture-php
+# Example Hexagonal Architecture in PHP

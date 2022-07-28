@@ -1,0 +1,21 @@
+{
+    "name": "dasacav3/hexagonal-architecture",
+    "description": "This is an implementation example of a hexagonal architecture with PHP",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Carrillo",
+            "email": "team.dasacav3@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "aws/aws-sdk-php": "^3.231"
+    }
+}
